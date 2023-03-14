@@ -7,9 +7,9 @@ public class Scenario {
 
 	public static void main(String[] args) {
 		Romain Minus;
-		Minus = new Romain("Minus",6);
+		Minus = new Romain("Minus", 6);
 		Gaulois asterix;
-		asterix = new Gaulois("Astérix", 8);
+		asterix = new Gaulois("Astï¿½rix", 8);
 		asterix.parler("Bonjour!");
 		Minus.parler("UN GAU... UN GAUGAU...");
 		asterix.frapper(Minus);
